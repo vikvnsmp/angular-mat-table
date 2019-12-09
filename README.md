@@ -1,6 +1,13 @@
 
 https://www.freakyjolly.com/angular-material-8-implement-dialog-modal-and-pass-data-between-parent-and-dialog-component-tutorial-by-example/
 
+https://stackoverflow.com/questions/51542796/table-angular-material-pagination-does-not-work-as-expected
+
+
+https://github.com/daniel-nagy/md-data-table
+http://danielnagy.me/md-data-table/
+
+
 ## Angular Material Course
 
 This repository contains the code of the [Angular Material Course](https://angular-university.io/course/angular-material-course).
