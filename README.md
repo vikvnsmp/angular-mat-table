@@ -1,4 +1,6 @@
 
+https://www.freakyjolly.com/angular-material-8-implement-dialog-modal-and-pass-data-between-parent-and-dialog-component-tutorial-by-example/
+
 ## Angular Material Course
 
 This repository contains the code of the [Angular Material Course](https://angular-university.io/course/angular-material-course).
