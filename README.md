@@ -5,7 +5,10 @@ https://stackoverflow.com/questions/51542796/table-angular-material-pagination-d
 
 
 https://github.com/daniel-nagy/md-data-table
+
 http://danielnagy.me/md-data-table/
+
+https://stackoverflow.com/questions/52315739/include-buttons-and-paginator-in-the-material-table-footer
 
 
 ## Angular Material Course
